@@ -29,7 +29,7 @@ pip install .
 from mathcalculator import MathCalculator_bracken576
 
 # Initialize the calculator
-calc = MathCalculator()
+calc = MathCalculator_bracken576()
 
 # Perform operations
 result_add = calc.add(5, 3)        # Returns 8
