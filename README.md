@@ -13,7 +13,7 @@ A simple Python package for basic mathematical operations.
 
 ### Install from PyPI
 ```bash
-pip install mathcalculator
+pip install mathcalculator-bracken576
 ```
 
 ### Install from Source
@@ -26,7 +26,7 @@ pip install .
 ## Usage
 
 ```python
-from mathcalculator import MathCalculator
+from mathcalculator import MathCalculator_bracken576
 
 # Initialize the calculator
 calc = MathCalculator()

@@ -1,4 +1,4 @@
-class MathCalculator:
+class MathCalculator_bracken576:
     """A simple calculator for basic mathematical operations."""
     
     def add(self, a, b):
